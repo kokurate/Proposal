@@ -1,3 +1,11 @@
+deleted from word patch 1.5
+
+fitur di penelitian relevan :
+6.	Seluruh penyelesaian dari setiap pengaduan yang sudah diselesaikan, akan disediakan tampilan berupa grafik	 
+
+WAKTU PENELITIAN :
+Penelitian dimulai ketika Kerja Praktek bulan Maret – Juli 2021 dan akan dilakukan penelitian kembali pada bulan Maret – Juni 2022
+
 
 
 dashboard = beda-beda
